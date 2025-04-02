@@ -1,27 +1,14 @@
 {
   "files": {
-    "main.css": "/rest-elite/static/css/main.64c0ec33.css",
-    "main.js": "/rest-elite/static/js/main.fdcfa10e.js",
-    "static/media/unsplash_lP5MCM6nZ5A.png": "/rest-elite/static/media/unsplash_lP5MCM6nZ5A.414cadcf1dfbd54b717e.png",
-    "static/media/unsplash_mAQZ3X_8_l0.png": "/rest-elite/static/media/unsplash_mAQZ3X_8_l0.85a69e2c5b1c3611c758.png",
+    "main.css": "/rest-elite/static/css/main.80e0839a.css",
+    "main.js": "/rest-elite/static/js/main.685e14a8.js",
     "static/media/Image.png": "/rest-elite/static/media/Image.a5632d626dd4bf2b97c0.png",
-    "static/media/unsplash_-GFCYhoRe48.png": "/rest-elite/static/media/unsplash_-GFCYhoRe48.a2c57344202abb235e2f.png",
-    "static/media/unsplash_fdlZBWIP0aM.png": "/rest-elite/static/media/unsplash_fdlZBWIP0aM.6c990136740bc11352ba.png",
-    "static/media/unsplash_dphM2U1xq0U.png": "/rest-elite/static/media/unsplash_dphM2U1xq0U.b860feb0fb019c809032.png",
-    "static/media/unsplash_-lHZUkiWM74.png": "/rest-elite/static/media/unsplash_-lHZUkiWM74.def9b9897b77079a4985.png",
-    "static/media/unsplash_MRHyv-hHxgk.png": "/rest-elite/static/media/unsplash_MRHyv-hHxgk.8fe2633da8cae89d440d.png",
-    "static/media/unsplash_q54Oxq44MZs.png": "/rest-elite/static/media/unsplash_q54Oxq44MZs.a0cf7a056bfa33bc92f9.png",
-    "static/media/unsplash_CLMpC9UhyTo.png": "/rest-elite/static/media/unsplash_CLMpC9UhyTo.32c7170502a25f78e18b.png",
-    "static/media/unsplash_jpkfc5_d-DI.png": "/rest-elite/static/media/unsplash_jpkfc5_d-DI.26d29153800833b19509.png",
-    "static/media/unsplash_tzl1UCXg5Es.png": "/rest-elite/static/media/unsplash_tzl1UCXg5Es.10bed1b9c08a80b39f7e.png",
-    "static/media/unsplash_mmnKI8kMxpc.png": "/rest-elite/static/media/unsplash_mmnKI8kMxpc.e2423a1fa39aa6a97a00.png",
-    "static/media/Group (2).png": "/rest-elite/static/media/Group (2).ef02ca8dbb5004c589fb.png",
     "index.html": "/rest-elite/index.html",
-    "main.64c0ec33.css.map": "/rest-elite/static/css/main.64c0ec33.css.map",
-    "main.fdcfa10e.js.map": "/rest-elite/static/js/main.fdcfa10e.js.map"
+    "main.80e0839a.css.map": "/rest-elite/static/css/main.80e0839a.css.map",
+    "main.685e14a8.js.map": "/rest-elite/static/js/main.685e14a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.64c0ec33.css",
-    "static/js/main.fdcfa10e.js"
+    "static/css/main.80e0839a.css",
+    "static/js/main.685e14a8.js"
   ]
 }

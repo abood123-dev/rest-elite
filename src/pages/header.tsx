@@ -5,8 +5,6 @@ import { NavLink } from "react-router-dom";
 import group from "../images/Group.png";
 import { Link } from "react-router-dom";
 import handbag from "../images/Handbag (1).png";
-import Head3 from "./Head3";
-import Head4 from "./Head4";
 const Heeder=()=>
 {
 const[showop,setShowop]=useState<boolean>(false);        
@@ -32,8 +30,6 @@ return(
     </div>    
 </div>
 <Head2/>
-<Head3/>
-<Head4/>
 </>
 )
 }
