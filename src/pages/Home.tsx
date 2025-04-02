@@ -1,10 +1,13 @@
 import React from 'react'
+import Heeder from './header'
+import Head2 from './head2'
 
 function Home() {
   return (
-    <div>
-      home
-    </div>
+    <>
+    <Heeder/>
+    <Head2/>
+    </>
   )
 }
 

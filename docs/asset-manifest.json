@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/rest-elite/static/js/main.a30124ea.js",
+    "main.css": "/rest-elite/static/css/main.57b37c1b.css",
+    "main.js": "/rest-elite/static/js/main.fa07bd0f.js",
     "index.html": "/rest-elite/index.html",
-    "main.a30124ea.js.map": "/rest-elite/static/js/main.a30124ea.js.map"
+    "main.57b37c1b.css.map": "/rest-elite/static/css/main.57b37c1b.css.map",
+    "main.fa07bd0f.js.map": "/rest-elite/static/js/main.fa07bd0f.js.map"
   },
   "entrypoints": [
-    "static/js/main.a30124ea.js"
+    "static/css/main.57b37c1b.css",
+    "static/js/main.fa07bd0f.js"
   ]
 }
