@@ -2,7 +2,11 @@ import React, { useRef, useState } from "react";
 import './header.css';
 import Head2 from "./head2";
 import { NavLink } from "react-router-dom";
+import group from "../images/Group.png";
 import { Link } from "react-router-dom";
+import handbag from "../images/Handbag (1).png";
+import Head3 from "./Head3";
+import Head4 from "./Head4";
 const Heeder=()=>
 {
 const[showop,setShowop]=useState<boolean>(false);        
@@ -23,12 +27,13 @@ return(
     </div>
     <div className="right">
         <input type="text" placeholder="Search..." className="headin" onChange={()=>setShowop(true)} onBlur={()=>setShowop(false)} />
-        <img src="/images/Group.png"  className="search"/> 
-       <NavLink to="/Cart" className="NavLink"><img src="../../public/images/Handbag (1).png" className="handbag"/></NavLink> 
+        <img src={group}  className="search"/> 
+       <NavLink to="/Cart" className="NavLink"><img src={handbag} className="handbag"/></NavLink> 
     </div>    
 </div>
 <Head2/>
-
+<Head3/>
+<Head4/>
 </>
 )
 }

@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import'./Head2.css'
 import { transform } from "typescript";
 import { NavLink, Outlet } from "react-router-dom";
+import Imm from '../images/Image.png';
 const Head2=()=>
 {
 const[Scroll,setScroll]=useState(false);
@@ -21,7 +22,7 @@ Varius sed pharetra dictum neque massa congue</p>
 <NavLink to='/Menu'><button className="btn1">See Menu</button></NavLink> 
 </div>
 <div className="sec2">
-<img className="img" src='/images/Image.png' />
+<img className="img" src={Imm} />
 </div>
 </div>
 <Outlet/>

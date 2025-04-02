@@ -5,8 +5,7 @@ import Head2 from './head2'
 function Home() {
   return (
     <>
-    <Heeder/>
-    <Head2/>
+   <Heeder/>
     </>
   )
 }
