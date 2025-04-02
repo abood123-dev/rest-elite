@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/rest-elite/static/css/main.67f75ed3.css",
-    "main.js": "/rest-elite/static/js/main.603d696f.js",
+    "main.css": "/rest-elite/static/css/main.cdaa51f0.css",
+    "main.js": "/rest-elite/static/js/main.32196580.js",
     "static/media/unsplash_E6DsqnZbZ4o.png": "/rest-elite/static/media/unsplash_E6DsqnZbZ4o.13684efba614f10c156b.png",
+    "static/media/unsplash_MqT0asuoIcU.png": "/rest-elite/static/media/unsplash_MqT0asuoIcU.d5dec05ca1f255e8f34d.png",
+    "static/media/unsplash_XoByiBymX20.png": "/rest-elite/static/media/unsplash_XoByiBymX20.f4610d891a4aba8f01af.png",
     "static/media/unsplash_lP5MCM6nZ5A.png": "/rest-elite/static/media/unsplash_lP5MCM6nZ5A.414cadcf1dfbd54b717e.png",
     "static/media/unsplash_mAQZ3X_8_l0.png": "/rest-elite/static/media/unsplash_mAQZ3X_8_l0.85a69e2c5b1c3611c758.png",
     "static/media/Image.png": "/rest-elite/static/media/Image.a5632d626dd4bf2b97c0.png",
@@ -42,11 +44,11 @@
     "static/media/image 58.png": "/rest-elite/static/media/image 58.f85724911c8da5b92c28.png",
     "static/media/image 57.png": "/rest-elite/static/media/image 57.3dea895ee32ff22f879e.png",
     "index.html": "/rest-elite/index.html",
-    "main.67f75ed3.css.map": "/rest-elite/static/css/main.67f75ed3.css.map",
-    "main.603d696f.js.map": "/rest-elite/static/js/main.603d696f.js.map"
+    "main.cdaa51f0.css.map": "/rest-elite/static/css/main.cdaa51f0.css.map",
+    "main.32196580.js.map": "/rest-elite/static/js/main.32196580.js.map"
   },
   "entrypoints": [
-    "static/css/main.67f75ed3.css",
-    "static/js/main.603d696f.js"
+    "static/css/main.cdaa51f0.css",
+    "static/js/main.32196580.js"
   ]
 }
