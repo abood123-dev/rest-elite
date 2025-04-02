@@ -7,6 +7,8 @@ import { Link } from "react-router-dom";
 import handbag from "../images/Handbag (1).png";
 import Head3 from "./Head3";
 import Head4 from "./Head4";
+import Head5 from "./Head5";
+import Head6 from "./Head6";
 const Heeder=()=>
 {
 const[showop,setShowop]=useState<boolean>(false);        
@@ -34,6 +36,8 @@ return(
 <Head2/>
 <Head3/>
 <Head4/>
+<Head5/>
+<Head6/>
 </>
 )
 }
