@@ -9,6 +9,8 @@ import Head3 from "./Head3";
 import Head4 from "./Head4";
 import Head5 from "./Head5";
 import Head6 from "./Head6";
+import Head7 from "./Head7";
+import End from "./End";
 const Heeder=()=>
 {
 const[showop,setShowop]=useState<boolean>(false);        
@@ -38,6 +40,8 @@ return(
 <Head4/>
 <Head5/>
 <Head6/>
+<Head7/>
+<End/>
 </>
 )
 }

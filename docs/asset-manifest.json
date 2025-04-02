@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/rest-elite/static/css/main.0ad23f50.css",
-    "main.js": "/rest-elite/static/js/main.2bd939c7.js",
+    "main.css": "/rest-elite/static/css/main.e1c754ce.css",
+    "main.js": "/rest-elite/static/js/main.0fd06178.js",
+    "static/media/unsplash_E6DsqnZbZ4o.png": "/rest-elite/static/media/unsplash_E6DsqnZbZ4o.13684efba614f10c156b.png",
     "static/media/unsplash_lP5MCM6nZ5A.png": "/rest-elite/static/media/unsplash_lP5MCM6nZ5A.414cadcf1dfbd54b717e.png",
     "static/media/unsplash_mAQZ3X_8_l0.png": "/rest-elite/static/media/unsplash_mAQZ3X_8_l0.85a69e2c5b1c3611c758.png",
     "static/media/Image.png": "/rest-elite/static/media/Image.a5632d626dd4bf2b97c0.png",
@@ -12,10 +13,16 @@
     "static/media/unsplash_MRHyv-hHxgk.png": "/rest-elite/static/media/unsplash_MRHyv-hHxgk.8fe2633da8cae89d440d.png",
     "static/media/unsplash_q54Oxq44MZs.png": "/rest-elite/static/media/unsplash_q54Oxq44MZs.a0cf7a056bfa33bc92f9.png",
     "static/media/unsplash_Lv174o7fn7Y.png": "/rest-elite/static/media/unsplash_Lv174o7fn7Y.2de13378787968870d3c.png",
+    "static/media/Card 3.png": "/rest-elite/static/media/Card 3.13f5d3cc66f88201ebed.png",
+    "static/media/Card 2.png": "/rest-elite/static/media/Card 2.24fe17e08ffbdac24694.png",
     "static/media/unsplash_CLMpC9UhyTo.png": "/rest-elite/static/media/unsplash_CLMpC9UhyTo.32c7170502a25f78e18b.png",
+    "static/media/Chef card.png": "/rest-elite/static/media/Chef card.576b3b24be4bb18f8ca6.png",
+    "static/media/Rectangle 8934.png": "/rest-elite/static/media/Rectangle 8934.2a81a071faf70cc64fe1.png",
     "static/media/unsplash_jpkfc5_d-DI.png": "/rest-elite/static/media/unsplash_jpkfc5_d-DI.26d29153800833b19509.png",
+    "static/media/Card 4.png": "/rest-elite/static/media/Card 4.8410270770ff3acf9e6b.png",
     "static/media/unsplash_tzl1UCXg5Es.png": "/rest-elite/static/media/unsplash_tzl1UCXg5Es.10bed1b9c08a80b39f7e.png",
     "static/media/unsplash_mmnKI8kMxpc.png": "/rest-elite/static/media/unsplash_mmnKI8kMxpc.e2423a1fa39aa6a97a00.png",
+    "static/media/Ellipse 6.png": "/rest-elite/static/media/Ellipse 6.751943535b5f4d76be3c.png",
     "static/media/unsplash_dphM2U1xq0U (1).png": "/rest-elite/static/media/unsplash_dphM2U1xq0U (1).e5c684e4b032fd16bbd7.png",
     "static/media/Group (2).png": "/rest-elite/static/media/Group (2).ef02ca8dbb5004c589fb.png",
     "static/media/unsplash_Yr4n8O_3UPc.png": "/rest-elite/static/media/unsplash_Yr4n8O_3UPc.a9db19d4eaf8260e761d.png",
@@ -26,11 +33,11 @@
     "static/media/unsplash_-GFCYhoRe48 (1).png": "/rest-elite/static/media/unsplash_-GFCYhoRe48 (1).412cce6dfad1df848c16.png",
     "static/media/unsplash_mAQZ3X_8_l0 (1).png": "/rest-elite/static/media/unsplash_mAQZ3X_8_l0 (1).5fded5a5473b7fcb50e5.png",
     "index.html": "/rest-elite/index.html",
-    "main.0ad23f50.css.map": "/rest-elite/static/css/main.0ad23f50.css.map",
-    "main.2bd939c7.js.map": "/rest-elite/static/js/main.2bd939c7.js.map"
+    "main.e1c754ce.css.map": "/rest-elite/static/css/main.e1c754ce.css.map",
+    "main.0fd06178.js.map": "/rest-elite/static/js/main.0fd06178.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ad23f50.css",
-    "static/js/main.2bd939c7.js"
+    "static/css/main.e1c754ce.css",
+    "static/js/main.0fd06178.js"
   ]
 }
