@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rest-elite/static/css/main.0e65dfa2.css",
+    "main.css": "/rest-elite/static/css/main.db9ef4b5.css",
     "main.js": "/rest-elite/static/js/main.ef6911c6.js",
     "static/media/unsplash_E6DsqnZbZ4o.png": "/rest-elite/static/media/unsplash_E6DsqnZbZ4o.13684efba614f10c156b.png",
     "static/media/unsplash_MqT0asuoIcU.png": "/rest-elite/static/media/unsplash_MqT0asuoIcU.d5dec05ca1f255e8f34d.png",
@@ -57,11 +57,11 @@
     "static/media/image 58.png": "/rest-elite/static/media/image 58.f85724911c8da5b92c28.png",
     "static/media/image 57.png": "/rest-elite/static/media/image 57.3dea895ee32ff22f879e.png",
     "index.html": "/rest-elite/index.html",
-    "main.0e65dfa2.css.map": "/rest-elite/static/css/main.0e65dfa2.css.map",
+    "main.db9ef4b5.css.map": "/rest-elite/static/css/main.db9ef4b5.css.map",
     "main.ef6911c6.js.map": "/rest-elite/static/js/main.ef6911c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e65dfa2.css",
+    "static/css/main.db9ef4b5.css",
     "static/js/main.ef6911c6.js"
   ]
 }

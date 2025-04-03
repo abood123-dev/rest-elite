@@ -77,19 +77,19 @@ margin-left: 10%;
 .profilepic
 {
 position: absolute;
-top: 4170px;
+top: 4010px;
 left: 44%;
 }
 .quotes
 {
 position: absolute;
-top: 4360px;
+top: 4160px;
 left: 47%;
 }
 .test3
 {
 position: absolute;
-top: 4410px;
+top: 4210px;
 left: 27%;
 width: 590px;
 color: black;
@@ -100,37 +100,37 @@ font-family: Arial, Helvetica, sans-serif;
 .stars
 {
 position: absolute;
-top: 4560px;
+top: 4360px;
 left: 45%;
 }
 .stars11
 {
 position: absolute;
-top: 4560px;
+top: 4360px;
 left: 47%;
 }
 .stars22
 {
 position: absolute;
-top: 4560px;
+top: 4360px;
 left: 49%;
 }
 .stars33
 {
 position: absolute;
-top: 4560px;
+top: 4360px;
 left: 51%;
 }
 .stars44
 {
 position: absolute;
-top: 4560px;
+top: 4360px;
 left: 53%;
 }
 .alamin
 {
 position: absolute;
-top: 4580px;
+top: 4380px;
 left: 41%;
 color: black;
 font-weight: bold;
@@ -143,13 +143,13 @@ color: grey;
 font-size: 22px;
 font-weight: lighter;
 position: absolute;
-top: 4640px;
+top: 4440px;
 left: 44%;
 }
 .Loading
 {
 position: absolute;
-top: 4760px;
+top: 4560px;
 left: 45.5%;
 }
 .bigpic
@@ -166,7 +166,7 @@ position: absolute;
 display: flex;
 flex-direction: column;
 gap: 10px;
-top: 5050px;
+top: 4900px;
 left:60%;
 align-items: end;
 }
