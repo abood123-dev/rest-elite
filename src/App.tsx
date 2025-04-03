@@ -5,6 +5,7 @@ import Blog from "./pages/Blog";
 import Bout from "./pages/Bout";
 import FAQ from "./pages/FAQ";
 import Signup from "./pages/Signup";
+import Chefs from "./pages/Chefs";
 console.log("🔄 Rendering App.tsx");
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/Bout" element={<Bout />} />
         <Route path="/Faq" element={<FAQ />} />
         <Route path="/Sign" element={<Signup />} />
+        <Route path="/Chefs" element={<Chefs />} />
       </Routes>
     </Router>
   );

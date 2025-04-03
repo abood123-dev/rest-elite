@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rest-elite/static/css/main.c2c0a427.css",
-    "main.js": "/rest-elite/static/js/main.d91e6ec2.js",
+    "main.css": "/rest-elite/static/css/main.c11d658d.css",
+    "main.js": "/rest-elite/static/js/main.ef6911c6.js",
     "static/media/unsplash_E6DsqnZbZ4o.png": "/rest-elite/static/media/unsplash_E6DsqnZbZ4o.13684efba614f10c156b.png",
     "static/media/unsplash_MqT0asuoIcU.png": "/rest-elite/static/media/unsplash_MqT0asuoIcU.d5dec05ca1f255e8f34d.png",
     "static/media/unsplash_3iexvMShGfQ.png": "/rest-elite/static/media/unsplash_3iexvMShGfQ.148b177b4ec283ca42b4.png",
@@ -15,12 +15,24 @@
     "static/media/unsplash_fdlZBWIP0aM.png": "/rest-elite/static/media/unsplash_fdlZBWIP0aM.6c990136740bc11352ba.png",
     "static/media/unsplash_akwA-GPF710.png": "/rest-elite/static/media/unsplash_akwA-GPF710.63118cb79a5b61007ad0.png",
     "static/media/Rectangle 8874.png": "/rest-elite/static/media/Rectangle 8874.66a61eef84a9c324588a.png",
+    "static/media/unsplash_XQWfro4LrVs.png": "/rest-elite/static/media/unsplash_XQWfro4LrVs.e3f004884807dc403371.png",
     "static/media/unsplash_dphM2U1xq0U.png": "/rest-elite/static/media/unsplash_dphM2U1xq0U.b860feb0fb019c809032.png",
     "static/media/unsplash_-lHZUkiWM74.png": "/rest-elite/static/media/unsplash_-lHZUkiWM74.def9b9897b77079a4985.png",
+    "static/media/unsplash_v3OlBE6-fhU.png": "/rest-elite/static/media/unsplash_v3OlBE6-fhU.c16f9c6c74df45f7c3fc.png",
+    "static/media/unsplash_iv6yNy7oBqQ.png": "/rest-elite/static/media/unsplash_iv6yNy7oBqQ.96cc70911ee10e94e737.png",
+    "static/media/unsplash_llcX9pTjhXM.png": "/rest-elite/static/media/unsplash_llcX9pTjhXM.27f873891c390db9f2eb.png",
+    "static/media/unsplash_GSD9VoG6f-U.png": "/rest-elite/static/media/unsplash_GSD9VoG6f-U.f9e8f09ab89254e705cf.png",
     "static/media/unsplash_MRHyv-hHxgk.png": "/rest-elite/static/media/unsplash_MRHyv-hHxgk.8fe2633da8cae89d440d.png",
+    "static/media/unsplash_VdFBh2ZgXbM.png": "/rest-elite/static/media/unsplash_VdFBh2ZgXbM.a3f3bd3b742be096e296.png",
     "static/media/unsplash_q54Oxq44MZs.png": "/rest-elite/static/media/unsplash_q54Oxq44MZs.a0cf7a056bfa33bc92f9.png",
+    "static/media/unsplash_uTaSlu2Jfsg.png": "/rest-elite/static/media/unsplash_uTaSlu2Jfsg.a8b641e0b3f079a0a945.png",
+    "static/media/unsplash_7qileFwJEWo.png": "/rest-elite/static/media/unsplash_7qileFwJEWo.af1e51b807e03073ec42.png",
     "static/media/unsplash_Lv174o7fn7Y.png": "/rest-elite/static/media/unsplash_Lv174o7fn7Y.2de13378787968870d3c.png",
+    "static/media/unsplash_SiQgni-cqFg.png": "/rest-elite/static/media/unsplash_SiQgni-cqFg.8f47fd8160cc88dfebb5.png",
+    "static/media/unsplash_DdglEoIC2y4.png": "/rest-elite/static/media/unsplash_DdglEoIC2y4.a8a815e21e1e75df9065.png",
     "static/media/Card 3.png": "/rest-elite/static/media/Card 3.13f5d3cc66f88201ebed.png",
+    "static/media/unsplash_CYnQUywzBtI.png": "/rest-elite/static/media/unsplash_CYnQUywzBtI.5fadd56bff8b38fb2ac4.png",
+    "static/media/unsplash_lRAWcT7uwhY.png": "/rest-elite/static/media/unsplash_lRAWcT7uwhY.5a26c9aacdb7a3e6d89e.png",
     "static/media/Card 2.png": "/rest-elite/static/media/Card 2.24fe17e08ffbdac24694.png",
     "static/media/unsplash_CLMpC9UhyTo.png": "/rest-elite/static/media/unsplash_CLMpC9UhyTo.32c7170502a25f78e18b.png",
     "static/media/Chef card.png": "/rest-elite/static/media/Chef card.576b3b24be4bb18f8ca6.png",
@@ -45,11 +57,11 @@
     "static/media/image 58.png": "/rest-elite/static/media/image 58.f85724911c8da5b92c28.png",
     "static/media/image 57.png": "/rest-elite/static/media/image 57.3dea895ee32ff22f879e.png",
     "index.html": "/rest-elite/index.html",
-    "main.c2c0a427.css.map": "/rest-elite/static/css/main.c2c0a427.css.map",
-    "main.d91e6ec2.js.map": "/rest-elite/static/js/main.d91e6ec2.js.map"
+    "main.c11d658d.css.map": "/rest-elite/static/css/main.c11d658d.css.map",
+    "main.ef6911c6.js.map": "/rest-elite/static/js/main.ef6911c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2c0a427.css",
-    "static/js/main.d91e6ec2.js"
+    "static/css/main.c11d658d.css",
+    "static/js/main.ef6911c6.js"
   ]
 }
