@@ -1,0 +1,170 @@
+.meal
+{
+display: flex;
+flex-direction: column;
+align-items: start;
+gap: 10px;
+width: 200px;
+padding-right: -20px;
+padding-bottom: 10px;
+transition: ease-out 0.3s;
+margin-bottom: 10px;
+}
+.ffimg
+{
+    width: 200px;
+    height: 200px;
+}
+.fooddesc
+{
+font-family: arial;
+font-weight: bold;
+color: black;
+font-size: 15px;
+}
+.loding
+{
+     font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold; 
+    color: black;
+}
+.trustme
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold; 
+    color: #FF9F0D;
+}
+.foodprice
+{
+color: black;
+}
+.allmeals
+{
+display: grid;
+grid-template-columns: 200px 200px 200px 200px;
+column-gap: 25px;
+padding-left: 50px;
+padding-top: 50px;
+}
+.meal:hover
+{
+background-color: #FF9F0D;
+color: black;
+border:none;
+border-radius: 20px;
+}
+.checkboxes
+{
+display: flex;
+flex-direction: column;
+gap: 12px;
+padding:50px;
+border-width: 2px;
+border-style: solid;
+border-color: grey;
+border-radius: 10px;
+margin-top: 40px;
+}
+.ocheck
+{
+display: flex;
+flex-direction: row;
+gap: 10px;
+}
+.am
+{
+display: flex;
+flex-direction: row;
+align-items: start;
+gap: 160px;
+background-color: white;
+}
+.sef
+{
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: black;
+font-size: 20px;
+}
+.gory
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 16px;
+}
+.detailsbtn
+{
+    color: #FF9F0D;
+    border-color: #FF9F0D;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: ease-out 0.3s;
+}
+.detailsbtn:hover
+{
+    padding: 25px;
+}
+@media only screen and (max-width: 767px) {
+.allmeals
+{
+display: grid;
+grid-template-columns: 100px 100px;
+column-gap: 25px;
+padding-left: 20px;
+padding-top: 50px;
+}
+.sef
+{
+display: none;
+}
+.gory
+{
+    display: none;
+}
+.checkboxes
+{
+display: grid;
+grid-template-columns: 200px 100px;
+padding:10px;
+border-width: 2px;
+border-style: solid;
+border-color: grey;
+border-radius: 10px;
+margin-top: 10px;
+}
+body
+{
+    overflow-x: hidden;
+}
+.am
+{
+display: flex;
+flex-direction: column-reverse;
+align-items: start;
+gap: 20px;
+background-color: white;
+}
+.meal
+{
+display: flex;
+flex-direction: column;
+align-items: start;
+gap: 10px;
+width: 100px;
+padding-right: -20px;
+padding-bottom: 10px;
+transition: ease-out 0.3s;
+margin-bottom: 10px;
+}
+.ffimg
+{
+    width: 100px;
+    height: 100px;
+}
+}
