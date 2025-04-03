@@ -7,6 +7,7 @@ import FAQ from "./pages/FAQ";
 import Signup from "./pages/Signup";
 import Chefs from "./pages/Chefs";
 import Shop from "./pages/Shop";
+import More from "./pages/more";
 console.log("🔄 Rendering App.tsx");
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/Sign" element={<Signup />} />
         <Route path="/Chefs" element={<Chefs />} />
         <Route path="/Shop" element={<Shop />} />
+        <Route path="/More/:id" element={<More />} />
       </Routes>
     </Router>
   );
