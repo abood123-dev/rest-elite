@@ -9,6 +9,7 @@ import Chefs from "./pages/Chefs";
 import Shop from "./pages/Shop";
 import More from "./pages/more";
 import Cart from "./pages/Cart";
+import Checkout from "./pages/Checkout";
 console.log("🔄 Rendering App.tsx");
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Route path="/Shop" element={<Shop />} />
         <Route path="/More/:id" element={<More />} />
         <Route path="/Cart" element={<Cart />} />
+        <Route path="/Checkout" element={<Checkout />} />
       </Routes>
     </Router>
   );
