@@ -8,6 +8,7 @@ import Signup from "./pages/Signup";
 import Chefs from "./pages/Chefs";
 import Shop from "./pages/Shop";
 import More from "./pages/more";
+import Cart from "./pages/Cart";
 console.log("🔄 Rendering App.tsx");
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="/Chefs" element={<Chefs />} />
         <Route path="/Shop" element={<Shop />} />
         <Route path="/More/:id" element={<More />} />
+        <Route path="/Cart" element={<Cart />} />
       </Routes>
     </Router>
   );
