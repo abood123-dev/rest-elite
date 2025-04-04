@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rest-elite/static/css/main.42ad4f36.css",
+    "main.css": "/rest-elite/static/css/main.4e013960.css",
     "main.js": "/rest-elite/static/js/main.b15131bf.js",
     "static/media/unsplash_E6DsqnZbZ4o.png": "/rest-elite/static/media/unsplash_E6DsqnZbZ4o.13684efba614f10c156b.png",
     "static/media/unsplash_MqT0asuoIcU.png": "/rest-elite/static/media/unsplash_MqT0asuoIcU.d5dec05ca1f255e8f34d.png",
@@ -57,11 +57,11 @@
     "static/media/image 58.png": "/rest-elite/static/media/image 58.f85724911c8da5b92c28.png",
     "static/media/image 57.png": "/rest-elite/static/media/image 57.3dea895ee32ff22f879e.png",
     "index.html": "/rest-elite/index.html",
-    "main.42ad4f36.css.map": "/rest-elite/static/css/main.42ad4f36.css.map",
+    "main.4e013960.css.map": "/rest-elite/static/css/main.4e013960.css.map",
     "main.b15131bf.js.map": "/rest-elite/static/js/main.b15131bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.42ad4f36.css",
+    "static/css/main.4e013960.css",
     "static/js/main.b15131bf.js"
   ]
 }
